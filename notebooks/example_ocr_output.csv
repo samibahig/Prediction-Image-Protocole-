@@ -1,0 +1,4 @@
+image_name,exam_name,card_number,full_text,protocol
+example_001.PNG,TDM thorax abdomen,000001,"EXAMEN DEMANDÉ: TDM thorax abdomen\nRENSEIGNEMENTS CLINIQUES: douleur dyspnée",C+
+example_002.PNG,scan abdo-pelvien,000002,"EXAMEN DEMANDÉ: scan abdo-pelvien\nRENSEIGNEMENTS CLINIQUES: volvulus de l'estomac",C-
+example_003.PNG,TDM thorax,000003,"EXAMEN DEMANDÉ: TDM thorax\nRENSEIGNEMENTS CLINIQUES: cancer sigmoide r/o metastases",C- C+
