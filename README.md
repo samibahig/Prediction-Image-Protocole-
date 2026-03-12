@@ -298,9 +298,6 @@ Formation MILA · Expérience CRCHUM
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sami_Bahig-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-bahig/)
 [![GitHub](https://img.shields.io/badge/GitHub-samibahig-181717?logo=github&logoColor=white)](https://github.com/samibahig)
 
-**Oumnia** — Data Scientist  
-CRCHUM / Université de Montréal
-
 ---
 
 ## 🔗 Projets connexes
